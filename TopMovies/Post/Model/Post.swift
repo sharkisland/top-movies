@@ -37,22 +37,3 @@ struct Post {
         self.releaseDate = releaseDate
     }
 }
-
-
-/*
- 
- "vote_count": 446,
- "id": 447404,
- "video": false,
- "vote_average": 7,
- "title": "Pokémon Detective Pikachu",
- "popularity": 298.693,
- "poster_path": "\/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg",
- "original_language": "en",
- "original_title": "Pokémon Detective Pikachu",
- "genre_ids": [9648, 10751, 80, 14, 35, 878],
- "backdrop_path": "\/nDP33LmQwNsnPv29GQazz59HjJI.jpg",
- "adult": false,
- "overview": "In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.",
- "release_date": "2019-05-03"
- */
